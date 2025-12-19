@@ -1,1 +1,19 @@
-{"trainer/global_step":704,"train_loss":0.6446135640144348,"_wandb":{"runtime":1895},"train_dgd_loss":0.22339409589767456,"_timestamp":1.7661526619860463e+09,"lr-AdamW":5.9999999999999995e-05,"_step":72,"val_loss":0.3600614368915558,"_runtime":1895,"test_loss":0.36893990635871887,"epoch":2,"test_acc":0.8909000158309937,"val_acc":0.8935999870300293,"train_acc":0.875,"train_ce_loss":0.42121946811676025}
+{
+    "trainer/global_step": 704,
+    "train_loss": 0.6446135640144348,
+    "_wandb": {
+        "runtime": 1895
+    },
+    "train_dgd_loss": 0.22339409589767456,
+    "_timestamp": 1.7661526619860463e+09,
+    "lr-AdamW": 5.9999999999999995e-05,
+    "_step": 72,
+    "val_loss": 0.3600614368915558,
+    "_runtime": 1895,
+    "test_loss": 0.36893990635871887,
+    "epoch": 2,
+    "test_acc": 0.8909000158309937,
+    "val_acc": 0.8935999870300293,
+    "train_acc": 0.875,
+    "train_ce_loss": 0.42121946811676025
+}
